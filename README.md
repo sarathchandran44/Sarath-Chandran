@@ -4,6 +4,7 @@
 <img align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/sarath chandran" target="blank"><img src="https://img.shields.io/twitter/follow/sarath chandran?logo=twitter&style=for-the-badge" alt="sarath chandran" /></a> </p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 - 🌱 I’m currently learning **MEARN Stack**
 
